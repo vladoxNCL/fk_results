@@ -1,0 +1,7 @@
+seed,n_nodes,e_proba,max_weight,u_prop,strat
+282,50,0.1,100,0.1,p_fixed
+229,50,0.1,1000,0.2,p_weights
+143,50,0.1,10,0.2,p_fixed
+143,50,0.1,100,0.2,p_dynamic
+755,50,0.1,10,0.2,kruskal
+755,50,0.1,100,0.5,p_dynamic
